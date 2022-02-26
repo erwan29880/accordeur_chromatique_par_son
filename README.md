@@ -8,5 +8,4 @@ Je m'en sers de façon ponctuelle pour accorder mes instruments à anches libres
 
 Le programme peut importer d'autres fichiers (mp3 ou wave) pour servir par ailleurs de lecteur audio.
 
-
-
+Dans le dossier creation_note, il est possible de générer des notes à partir de la classe play.py, héritée de la classe notes.py qui génére les sons sinusoidaux.
